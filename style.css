@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+ .laptop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
